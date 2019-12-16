@@ -2,7 +2,7 @@
   "miniprogramRoot": "./dist",
   "projectname": "liveinchicv",
   "description": "精彩生活，活在细刻",
-  "appid": "touristappid",
+  "appid": "wx3e17d34112ed6408",
   "setting": {
     "urlCheck": true,
     "es6": false,
